@@ -43,20 +43,6 @@ Python | JavaScript | Cloud Platforms | Web Scraping</h3>
 </p>
 
 
-
-
-
-### 📁 Featured Projects
-
-| Project | Description |
-|--|-|
-| 🕷️ [ScrapeX](https://github.com/seme555/ScrapeX) | Advanced web scraping tool built with Python for data extraction and processing. |
-| 🧠 [Visionary](https://github.com/seme555/Visionary) | AI-powered system showcasing future-tech ideas and machine learning integration. |
-| 🛒 [React Commerce](https://github.com/seme555/react-commerce) | Full-stack e-commerce platform built with React and modern web technologies. |
-| 💬 [Vibe Chat](https://github.com/seme555/vibe-chat) | Real-time messaging application with modern UI/UX design. |
-| 📊 [Intelli-dash](https://github.com/seme555/Intelli-dash) | Intelligent dashboard system for data visualization and analytics. |
-
-
 # 💻 Tech Stack
 
 ## **Core Technologies**
