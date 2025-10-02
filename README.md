@@ -2,39 +2,22 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;QA+Engineer;AI+%26+ML+Engineer;React+%7C+Next.js+%7C+Node.js;Django+%7C+Vue.js+%7C+Nuxt.js;C%23+%7C+TypeScript+%7C+PostgreSQL;Docker+%7C+Software+Engineer" alt="Typing SVG" />
 </p>
-<h3 align="center">🚀 Data Engineer & Full-Stack Developer
+<h3 align="center">🚀 QA Engineer & Full-Stack Developer
 
 Building scalable data pipelines and AI-powered applications  
 Python | JavaScript | Cloud Platforms | Web Scraping</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=seme555&label=Profile%20views&color=0e75b6&style=flat" alt="seme555" />
+  <img src="https://komarev.com/ghpvc/?username=flagot&label=Profile%20views&color=0e75b6&style=flat" alt="flagot" />
 </p>
 <img align="right" alt="Coding" width="400" height="270" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ### 🚀 About Me
-🎯 I'm a **Data Engineer & Full-Stack Developer** specializing in **data pipelines**, **AI solutions**, and **web applications**.  
+🎯 I'm a **QA Engineer & Full-Stack Developer** specializing in **data pipelines**, **AI solutions**, and **web applications**.  
 🔭 I'm currently working on: **Data Pipeline Architecture**, **AI-Powered Analytics**, and **Scalable Web Applications**.  
 🌱 Currently learning: **Advanced ML/AI Integration**, **Cloud Architecture**, and **System Design**.  
 💡 I love building **production-ready solutions** and exploring **AI/ML integrations** for real-world problems.  
-📫 Reach me: **semereabera1111@Gmail.com*
-
-<!-- ✅ 2. Contribution Graph Animation -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=seme555&theme=github-compact" alt="GitHub Activity Graph"/>
-</p>
-
-<!-- ✅ 5. Dynamic Dev Card (Enable profile-summary-cards GitHub Action) -->
-<a href="https://github.com/seme-abera">
-  <img src="https://github.com/seme-abera/seme-abera/blob/output/profile-summary-card-output/github_dark/0-profile-details.svg" />
-</a>
-
-<!-- ✅ 6. QR Code to Email -->
-<h3 align="center">📬 Contact Me</h3>
-<p align="center">
-  <img src="https://api.qrserver.com/v1/create-qr-code/?data=mailto:semere.abera@email.com&size=150x150" alt="email QR" />
-</p>
-<p align="center"><i>Scan to reach me directly via email!</i></p>
+📫 Reach me: flagotmulugeta3@gmail.com
 
 
 ### 🧠 Skills & Expertise
@@ -54,9 +37,9 @@ Python | JavaScript | Cloud Platforms | Web Scraping</h3>
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seme555&show_icons=true&theme=radical" alt="seme555 stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seme555&layout=compact&theme=radical" alt="top languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=seme555&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=flagot&show_icons=true&theme=radical" alt="flagot stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flagot&layout=compact&theme=radical" alt="top languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=flagot&theme=radical&hide_border=true" />
 </p>
 
 
@@ -72,18 +55,6 @@ Python | JavaScript | Cloud Platforms | Web Scraping</h3>
 | 🛒 [React Commerce](https://github.com/seme555/react-commerce) | Full-stack e-commerce platform built with React and modern web technologies. |
 | 💬 [Vibe Chat](https://github.com/seme555/vibe-chat) | Real-time messaging application with modern UI/UX design. |
 | 📊 [Intelli-dash](https://github.com/seme555/Intelli-dash) | Intelligent dashboard system for data visualization and analytics. |
-
-
-
-### 🌐 Connect with Me
-
-<p align="center">
-  <a href="mailto:semereabera1111@email.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white"></a>
-</p>
-
-
-
-
 
 
 # 💻 Tech Stack
@@ -112,8 +83,4 @@ Python | JavaScript | Cloud Platforms | Web Scraping</h3>
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
+
